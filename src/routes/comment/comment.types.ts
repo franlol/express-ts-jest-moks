@@ -1,6 +1,7 @@
 export enum ECommentRoutes {
   COMMENT_INDEX = '/',
   COMMENT_ALL = '/all',
+
   COMMENT_URL = 'https://jsonplaceholder.typicode.com/posts/1/comments'
 }
 
